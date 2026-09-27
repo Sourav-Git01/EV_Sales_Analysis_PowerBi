@@ -104,7 +104,7 @@ Three Excel files were imported directly into Power BI. Additional datasets, suc
 - Created a new type of bar chart visual (Horizontal Bar chart with labels above), useful for various analysis purposes.
 - Implemented dynamic ranking (top/bottom filtration with Top-N Slicer) on the Sales by Makers page and Sales by State pages.
 - Categorized the measures into folders and subfolders and provided proper documentation for each measure.
-- The electric vehicle market in India is witnessing rapid growth, with a year-on-year (YoY) surge of ~50% in CY2023.
+- The electric vehicle market in India is witnessing rapid growth, with 31% increase in CY 2024 against Previous Year 2023.
 - EVs made up 6.5% of total vehicle sales last year, with the Electric 2W segment leading at 56% of all EV sales in CY2023, highlighting the growing EV market share in India.
 - In terms of YoY sales growth, the electric car segment saw the highest growth rate of 116% in 2023.
 - Utilized bookmarks and selection for various purposes, such as page navigation.
