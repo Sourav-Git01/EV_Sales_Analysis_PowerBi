@@ -4,7 +4,7 @@ As part of the Codebasics Data Analytics Course Unguided Project
 
 ## 📝 Problem Statement
 
-AtliQ Motors, a prominent automotive leader from the USA specializing in electric vehicles, has seen its market share in North America's electric and hybrid vehicle segment grow to 25% over the past five years. As part of its global expansion, the company aims to introduce its top-selling models in India, where its current market share is below 2%. To support this initiative, AtliQ Motors conducted an in-depth study of the existing EV and hybrid vehicle market in India.
+Marvel Motors, a prominent automotive leader from the USA specializing in electric vehicles, has seen its market share in North America's electric and hybrid vehicle segment grow to 25% over the past five years. As part of its global expansion, the company aims to introduce its top-selling models in India, where its current market share is below 2%. To support this initiative, Marvel Motors conducted an in-depth study of the existing EV and hybrid vehicle market in India.
 
 ## 📋 Task List
 
