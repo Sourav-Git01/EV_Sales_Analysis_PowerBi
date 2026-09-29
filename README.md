@@ -110,3 +110,15 @@ Three Excel files were imported directly into Power BI. Additional datasets, suc
 - Utilized bookmarks and selection for various purposes, such as page navigation.
 - Adopted a color palette for consistency throughout the dashboard ([Color palette link](https://coolors.co/palette/386641-6a994e-a7c957-f2e8cf-bc4749)).
 
+ ## 🔍 Key Insights from the Dashboard
+ - Ola Electric has consistently dominated the top position in 2-Wheelers sales from 2023 to 2024.
+- Tata Motors has been the top seller in 4-wheeler EV sales every quarter from 2022 to 2024.
+- The CAGR is highest for BMW India from 2022-24 in the 4-Wheelers category (1141%).
+- Meghalaya has the highest CAGR among all states (28.47%).
+- Gujarat, Delhi, and Maharashtra are the states providing the most subsidies.
+- The Indian government provides various subsidies and rebates to reduce the purchase cost of EVs, making them more affordable for consumers.
+- Apart from Gujarat, Delhi, Maharashtra, Meghalaya, Assam, and Kerala provide 100% Road Tax Exemption.
+- Maharashtra has higher projected sales in 2030 in the 2-wheelers category, but Karnataka has higher projected sales in the 4-wheelers category.
+- Goa has the highest penetration rate in the 2-Wheeler vehicle category in 2024.
+  
+
